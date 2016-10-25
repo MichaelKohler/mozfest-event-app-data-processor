@@ -8,7 +8,7 @@ This Schedule App Data Processor script handles the following tasks
 2. and converts it to a JSON array where each object has keys corresponding to the 
   spreadsheet column names,
 3. then stores that JSON locally and/or automatically commits it to a GitHub 
-  repo (your schedule app repo, e.g., [MoFo All-hands schedule app](https://github.com/m ozilla/mofo- allhands)).
+  repo (your schedule app repo, e.g., [MoFo All-hands schedule app](https://github.com/mozilla/mofo-allhands)).
 
 ## To run the script
 
